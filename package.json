@@ -1,0 +1,24 @@
+{
+  "name": "cypress-base-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GonzagaDevTest/cypress-base-project.git"
+  },
+  "keywords": [],
+  "author": "Cristiano Gonzaga",
+  "license": "ISC",
+  "peerDependencies": {
+    "cypress-multi-reporters": "^1.5.0",
+    "mocha": "^9.1.3",
+    "mochawesome": "^7.0.1",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.0.1"
+  },
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
