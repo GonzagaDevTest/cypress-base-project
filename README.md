@@ -2,3 +2,6 @@
 
 
 #### Instalação:
+
+
+#### Métodos:
